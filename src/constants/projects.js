@@ -8,13 +8,9 @@ export const projects = [
     description:
       "This project  focuses on practicing the application of Material-UI and various libraries. The main objective is to gain proficiency in utilizing MUI and exploring the functionalities of different libraries.",
     image: reactAdminImg,
-    tags: [
-      "React",
-      "Material UI",
-      "Formik",
-    ],
+    tags: ["React", "Material UI", "Formik"],
     source: "https://github.com/JerryW2022/React-Admin-Dashboard",
-    liveVersion: "",
+    liveVersion: "https://react-admin-management2023.netlify.app",
     id: 0,
   },
   {
@@ -24,7 +20,7 @@ export const projects = [
     image: NewsGridImg,
     tags: ["HTML", "CSS", "Grid"],
     source: "https://github.com/JerryW2022/newsgrid",
-    liveVersion: "https://fabulous-kashata-bad444.netlify.app/",
+    liveVersion: "https://news-grid2022.netlify.app",
     id: 1,
   },
   {
