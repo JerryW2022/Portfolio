@@ -33,6 +33,14 @@ const Hero = () => {
     },
   }));
 
+  const onDownload = () => {
+    const link = document.createElement("a");
+    link.download = `Curriculum_Vitae.pdf`;
+    link.href = "./Curriculum_Vitae.pdf";
+    link.click();
+  };
+
+
   return (
     <Box
       sx={{
@@ -78,8 +86,8 @@ const Hero = () => {
         />
 
         <CustomButton>
-          <Link to="about" className="link" smooth>
-            Contact Me
+          <Link onClick={onDownload} className="link" smooth>
+            CURRICULUM VITAE
           </Link>
         </CustomButton>
       </Box>
