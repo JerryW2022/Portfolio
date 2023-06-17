@@ -24,13 +24,13 @@ export const projects = [
     id: 1,
   },
   {
-    title: "React Admin Dashboard2",
+    title: "React chatting application",
     description:
-      "This project involves backend management with state management, connecting to APIs, sending requests to fetch and display data, as well as facilitating communication between different components.",
+      "A React online chatting application using the ChatEngine API is a real-time messaging platform that allows users to communicate with each other in a chat-based interface.",
     image: reactAdmin2Img,
-    tags: ["axios", "React", "Redux"],
-    source: "https://github.com/JerryW2022/cms_client",
-    liveVersion: "",
+    tags: ["Axios", "React", "ChatEngine"],
+    source: "https://github.com/JerryW2022/Chat_App",
+    liveVersion: "https://chatappli2023.netlify.app/",
     id: 2,
   },
 ];
