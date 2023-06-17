@@ -1,6 +1,6 @@
 import NewsGridImg from "../media/newsGrid.png";
 import reactAdminImg from "../media/reactAdmin.jpg";
-import reactAdmin2Img from "../media/ReactAdminDashboard2.jpg";
+import chatAppImg from "../media/chatAppImg.jpg";
 
 export const projects = [
   {
@@ -27,7 +27,7 @@ export const projects = [
     title: "React chatting application",
     description:
       "A React online chatting application using the ChatEngine API is a real-time messaging platform that allows users to communicate with each other in a chat-based interface.",
-    image: reactAdmin2Img,
+    image: chatAppImg,
     tags: ["Axios", "React", "ChatEngine"],
     source: "https://github.com/JerryW2022/Chat_App",
     liveVersion: "https://chatappli2023.netlify.app/",
