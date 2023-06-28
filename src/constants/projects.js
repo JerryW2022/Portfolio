@@ -1,6 +1,6 @@
 import NewsGridImg from "../media/newsGrid.png";
 import reactAdminImg from "../media/reactAdmin.jpg";
-import chatAppImg from "../media/chatAppImg.jpg";
+import dashboard from "../media/dashboard.jpg";
 
 export const projects = [
   {
@@ -28,7 +28,7 @@ export const projects = [
     description:
       "The Admin Panel consists of a Dashboard, Three Pages, Four Apps, and Seven charts that are fully functional. It includes a functional calendar, a kanban board, a WYSIWYG editor, and a color picker with the Tailwind CSS framework.",
 
-    image: chatAppImg,
+    image: dashboard,
     tags: ["Tailwind", "React"],
     source: "https://github.com/JerryW2022/Dashboard",
     liveVersion: "https://dashboard2023v2.netlify.app/",
