@@ -6,7 +6,7 @@ export const projects = [
   {
     title: "React Admin Dashboard",
     description:
-      "This project  focuses on practicing the application of Material-UI and various libraries. The main objective is to gain proficiency in utilizing MUI and exploring the functionalities of different libraries.",
+      "This project focuses on practicing the application of Material-UI and various libraries. The main objective is to gain proficiency in utilizing MUI and exploring the functionalities of different libraries.",
     image: reactAdminImg,
     tags: ["React", "Material UI", "Formik"],
     source: "https://github.com/JerryW2022/React-Admin-Dashboard",
@@ -24,13 +24,14 @@ export const projects = [
     id: 1,
   },
   {
-    title: "React chatting application",
+    title: "React Dashboard Application",
     description:
-      "A React online chatting application using the ChatEngine API is a real-time messaging platform that allows users to communicate with each other in a chat-based interface.",
+      "The Admin Panel consists of a Dashboard, Three Pages, Four Apps, and Seven charts that are fully functional. It includes a functional calendar, a kanban board, a WYSIWYG editor, and a color picker with the Tailwind CSS framework.",
+
     image: chatAppImg,
-    tags: ["Axios", "React", "ChatEngine"],
-    source: "https://github.com/JerryW2022/Chat_App",
-    liveVersion: "https://chatappli2023.netlify.app/",
+    tags: ["Tailwind", "React"],
+    source: "https://github.com/JerryW2022/Dashboard",
+    liveVersion: "https://dashboard2023v2.netlify.app/",
     id: 2,
   },
 ];
