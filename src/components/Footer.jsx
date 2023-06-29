@@ -89,7 +89,7 @@ const Footer = () => {
 
         <Box
           component="a"
-          href="https://github.com/JerryW2022"
+          href="https://www.linkedin.com/in/yizhi-wang-851a2281/"
           target="_blank"
           rel="noopener"
           sx={{
